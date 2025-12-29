@@ -1,0 +1,16 @@
+[project]
+name = "stacks-subscription"
+description = "On-chain subscription management for SaaS"
+authors = ["serayd61"]
+telemetry = false
+cache_dir = ".cache"
+requirements = []
+
+[contracts.subscription]
+path = "contracts/subscription.clar"
+clarity_version = 3
+epoch = 3.0
+
+[repl.analysis]
+passes = ["check_checker"]
+
