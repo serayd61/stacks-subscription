@@ -27,3 +27,10 @@ On-chain subscription management for SaaS on Stacks.
 ## License
 MIT
 
+
+
+---
+## Subscription Service
+- ✅ Recurring payments
+- ✅ Plan management
+- ✅ On-chain billing
